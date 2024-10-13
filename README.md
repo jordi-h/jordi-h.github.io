@@ -7,9 +7,11 @@ Hello! As an ambitious computer scientist, I enjoy pursuing new challenges to ex
 - **MSc. in Computer Science**
 
 ## Principal Domains of Interest
-- **Networking and Cybersecurity**
-- **Software Development**
-- **Machine Learning**
+- **Cloud**
+- **Networking**
+- **Data Science**
+- **Cybersecurity**
+- **Large Language Models** (LLM)
 
 ## Languages
 - **French:** Native
